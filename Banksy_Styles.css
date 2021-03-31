@@ -1,0 +1,31 @@
+body {
+    background-image: url("SVG/background-01.svg");
+    background-repeat: no-repeat;
+    height: 2000px;
+    width: 1920px;
+}
+#background {
+    background-color: #f9f9f9;
+    margin: 30px;
+    width: 375px;
+    margin-left: 10%;
+    margin-right: 20%;
+    margin-top: 15%;
+    margin-bottom: 20%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: .5%;
+    padding-bottom: .5%;
+}
+#banksyNU {
+    margin-left: 35%;
+    margin-right: 20%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#banksychinatown {
+    margin-left: 20%;
+    margin-right: 35%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+]
